@@ -6,16 +6,17 @@ namespace TenVariables
     {
         static void Main(string[] args)
         {
-            string employeeName;
-            string employeeDateOfBirth;
-            string employeeAddress;
-            string employeeEMail;
-            string employeePhoneNumber;
-            char employeeGender;
-            int employeeAge;
-            string employeeID;
-            bool employeeMaritalStatus;
-            decimal employeeAnnualIncome;
+            string name;
+            char gender;
+            byte age;
+            ushort numberOfDays;
+            ulong score;
+            int numberOfPeople;
+            bool maritalStatus;
+            decimal money;
+            float coordinates;
+            DateTime dateOfBith;
+
         }
     }
 }
